@@ -10,16 +10,13 @@ namespace CSharpSinger
             WriteLine(results[0], int.Parse(results[1]));
         }
 
-        public static void WriteLine(string line, int speed)
+        public static void WriteLine(string line, int time)
         {
+            int speed = time/line.Length;
             foreach(var letter in line.ToCharArray())
             {
                 Console.Write(letter);
-                if (speed > 50)
-                    speed = 50;
-                else if (speed < 1)
-                    speed = 1;
-                System.Threading.Thread.Sleep((50-speed) * 10); // new method
+                System.Threading.Thread.Sleep(speed); // new method
             }
             Console.WriteLine("");
         }
