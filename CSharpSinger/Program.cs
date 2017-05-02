@@ -14,8 +14,8 @@ namespace CSharpSinger
             {
                 Console.WriteLine("Please choose the song that you'd like sung!");
                 Console.WriteLine("1 for Jonathan Coulton's 'All This Time'");
-                Console.WriteLine("2 for Jonathan Coulton's 'Code Monkey'");
-                Console.WriteLine("3 for Jonathan Coulton's 'Future Soon'");
+                Console.WriteLine("2 for 'The End Of The World'");
+                Console.WriteLine("3 for 'It's A Small World'");
                 Console.WriteLine("Enter the track number of the song you'd like or 'Quit'");
                 var response = Console.ReadLine();
 
@@ -32,7 +32,7 @@ namespace CSharpSinger
                     song--; //Arrays count from zero, people don't
 
                 // set the directory to something for yourself
-                var fileName = @"Songs\" + songs[song] + ".txt";
+                var fileName = songs[song] + ".txt";
 
                 if (!File.Exists(fileName)) // new condition type
                 {
