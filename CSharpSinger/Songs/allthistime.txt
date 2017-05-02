@@ -1,48 +1,81 @@
+Start song in 5,4,3,2,1 :5000
+NOW! :0
+===================================:10500
 Ten thousand seven hundred days:3000
  :1000
-We've been accident free  :3000
- :800
+We've been accident free  :2750
+ :700
 Practice my confident face  :3000
- :800
-My pod's depending on me  :3000
+ :700
+My pod's depending on me  :3250
  :1000
-Working hours fill the day  :3000
+Working hours fill the day  :3200
+ :1100
+Spending credits when we stay at home :4550
+ :10000
+ :1
+So long since anyone has seen :3000
  :1000
-Spending credits when we stay at home :3000
+Out past the edge of our zone :3000
+ :1000
+One of the friendlier machines :3000
+ :900
+Says I should leave it alone :3000
+ :1000
+But I wonder anyways :3000
+ :1000
+'Bout some things I shouldn't say :3000
  :1000
  :1
-So long since anyone has seen :42
-Out past the edge of our zone :42
-One of the friendlier machines :42
-Says I should leave it alone :42
-But I wonder anyways :42
-'Bout some things I shouldn't say :42
+What if Kurzweil doesn't make it?  :3000
+ :1000
+What if all the switches get stuck on destroy? :3000
+ :1000
+When the shuttle goes we won't take it :3000
+ :1000
+And the final counter-measures are deployed :3000
+ :1000
+All we'll have is all this time :3000
+ :1000
+All we'll have is all this time :3000
+ :1000
+All this time :3000
+ :10000
  :1
-What if Kurzweil doesn't make it?  :42
-What if all the switches get stuck on destroy? :42
-When the shuttle goes we won't take it :42
-And the final counter-measures are deployed :42
-All we'll have is all this time :42
-All we'll have is all this time :42
-All this time :42
+Reds for focus :3000
+ :1000
+Blues to not get upset :3000
+ :1000
+Wasters and complainers get what they get :3000
+ :1000
+All eyes watching no one's noticed me yet :3000
+ :1000
  :1
-Reds for focus :42
-Blues to not get upset :42
-Wasters and complainers get what they get :42
-All eyes watching no one's noticed me yet :42
+I'll tell the secret if I speak :3000
+ :1000
+It's what I'm smiling about :3000
+ :1000
+I keep it tucked into my cheek :3000
+ :1000
+'Til it's safe to spit out :3000
+ :1000
+Things are stranger than they seem :3000
+ :1000
+Now I remember what I dream :3000
+ :10000
  :1
-I'll tell the secret if I speak :42
-It's what I'm smiling about :42
-I keep it tucked into my cheek :42
-'Til it's safe to spit out :42
-Things are stranger than they seem :42
-Now I remember what I dream :42
- :1
-What if Kurzweil doesn't make it? :42
-What if all the switches get stuck on destroy? :42
-When the shuttle goes we won't take it :42
-And the final counter-measures are deployed :42
-All we'll have is all this time :42
-All we'll have is all this time :42
-All we'll have is all this time :42
-All this time  :42
+What if Kurzweil doesn't make it? :3000
+ :1000
+What if all the switches get stuck on destroy? :3000
+ :1000
+When the shuttle goes we won't take it :3000
+ :1000
+And the final counter-measures are deployed :3000
+ :1000
+All we'll have is all this time :3000
+ :1000
+All we'll have is all this time :3000
+ :1000
+All we'll have is all this time :3000
+ :1000
+All this time  :3000
